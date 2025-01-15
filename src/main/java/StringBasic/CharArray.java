@@ -15,7 +15,7 @@ public class CharArray {
 		// Convert char array back to string
 		String str1 = new String(word);
 		System.out.println(str1);
-		System.out.println("15/01/2025+1");
+		//System.out.println("15/01/2025+1");
 
 	}
 
